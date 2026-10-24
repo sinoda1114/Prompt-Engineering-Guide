@@ -100,7 +100,7 @@ We have published a 1 hour lecture that provides a comprehensive overview of pro
 
 To run the guide locally, for example to check the correct implementation of a new translation, you will need to:
 
-1. Install Node >=18.0.0
+1. Install Node >=20.9.0
 1. Install `pnpm` if not present in your system. Check [here](https://pnpm.io/installation) for detailed instructions.
 1. Install the dependencies: `pnpm i next react react-dom nextra nextra-theme-docs`
 1. Boot the guide with `pnpm dev`
